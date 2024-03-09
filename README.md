@@ -2,19 +2,20 @@
 
 ## 1. 프로젝트 개요
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/111333350/f2f670b1-8dcb-4a18-94b9-5439065ce03a)
+<br><br>
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/111333350/2e6fce62-5b36-44e1-9655-d30125d7f10f)
-
+<br><br>
 
 
 ## 2. 데이터 전처리
 
+<br><br>
 
 ## 3. 모델링
-
+<br><br>
 
 ## 4. 모델 평가 및 활용 방안
-
-<br>
+<br><br>
 
 ## 👥 Members
 
