@@ -8,8 +8,8 @@
 
 | 김민권 | 김시우 | 김정환 | 이두원 |
 | :-: | :-: | :-: | :-: |
-| <img src='https://github.com/Chii-kawa.png' height=130 width=130></img> | <img src='https://avatars.githubusercontent.com/u/143721160?v=4' height=130 width=130></img> | <img src='https://github.com/hwankatarinabluu.png' height=130 width=130></img> | <img src='https://github.com/DuwonLee.png' height=130 width=130></img> |
-| <a href="https://github.com/Chii-kawa" target="_blank"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=round&logo=github"/></a> | <a href="https://github.com/hyojun03" target="_blank"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=round&logo=github"/></a> | <a href="https://github.com/hwankatarinabluu" target="_blank"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=round&logo=github"/></a> | <a href="https://github.com/DuwonLee" target="_blank"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=round&logo=github"/></a> |
+| <img src='https://github.com/Chii-kawa.png' height=130 width=130></img> | <img src='https://github.com/siu-Kyu.png' height=130 width=130></img> | <img src='https://github.com/hwankatarinabluu.png' height=130 width=130></img> | <img src='https://github.com/DuwonLee.png' height=130 width=130></img> |
+| <a href="https://github.com/Chii-kawa" target="_blank"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=round&logo=github"/></a> | <a href="https://github.com/siu-Kyu" target="_blank"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=round&logo=github"/></a> | <a href="https://github.com/hwankatarinabluu" target="_blank"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=round&logo=github"/></a> | <a href="https://github.com/DuwonLee" target="_blank"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=round&logo=github"/></a> |
 
 | 이태웅 | 장서연 | 허윤지 |
 | :-: | :-: | :-: |
