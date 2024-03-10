@@ -1,4 +1,4 @@
-# 선호도 기반 제주도 여행 경로 추천
+![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/f8e145b8-5714-4ada-b576-80c4f6751887)# 선호도 기반 제주도 여행 경로 추천
 주제 설명
 
 ## 🙌 Members
@@ -29,8 +29,10 @@
 ## 2. Data Preprocessing
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/816fcce9-e763-4a86-bcf0-54d72548b236)
 <br><br>
+
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/62edd7b6-d77c-4721-be15-f2bc5e675c5d)
 <br><br>
+
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/d9e64cd8-e9bc-46a0-8153-066c94f55287)
 <br><br>
 
@@ -44,9 +46,16 @@
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/f74b1012-3624-4070-be18-1325d7117e92)
 <br><br>
 
+![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/b83f3754-cca8-421d-b734-c22944f19983)
+<br><br>
+
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/3c5d1f03-2cd5-4dfe-8bc8-e5e0626f0469)
 <br><br>
+
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/b0f0f8e2-61a3-4e18-b6d9-c0d6c7c80d99)
+<br><br>
+
+![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/e2184cc6-e2c5-4396-9be4-56ceabde1a1d)
 <br><br>
 
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/1d24980c-df22-49ae-b025-403151dc32dc)
