@@ -61,5 +61,15 @@
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/1d24980c-df22-49ae-b025-403151dc32dc)
 <br><br>
 
+![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/aa671968-a908-42a0-b107-30246e343149)
+<br><br>
+
+![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/9968661a-e919-4caa-a148-d32235401e2c)
+<br><br>
+ ## 4. 개선점 및 차별점 
+ ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/5303d897-678a-4326-85ee-7ec79efdc4f5)
+<br><br>
+![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/63fa8516-6f2e-4b82-84b8-4df64f397cbc)
+<br><br>
 ## 📈 Data
 - [AI 허브-국내 여행로그 데이터(제주도 및 도서지역)](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=realm&dataSetSn=71584)
