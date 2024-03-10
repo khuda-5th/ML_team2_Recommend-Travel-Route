@@ -1,4 +1,4 @@
-![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/f8e145b8-5714-4ada-b576-80c4f6751887)# 선호도 기반 제주도 여행 경로 추천
+# 선호도 기반 제주도 여행 경로 추천
 주제 설명
 
 ## 🙌 Members
@@ -46,7 +46,7 @@
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/f74b1012-3624-4070-be18-1325d7117e92)
 <br><br>
 
-![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/b83f3754-cca8-421d-b734-c22944f19983)
+![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/f8e145b8-5714-4ada-b576-80c4f6751887)
 <br><br>
 
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/3c5d1f03-2cd5-4dfe-8bc8-e5e0626f0469)
