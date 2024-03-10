@@ -35,13 +35,12 @@
 <br><br>
 
 ## 3. Modeling
-![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/d9e64cd8-e9bc-46a0-8153-066c94f55287)
+![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/b83f3754-cca8-421d-b734-c22944f19983)
 <br><br>
 
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/a1e21d9a-926b-431e-b15a-873e25995a73)
 <br><br>
-![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/f74b1012-3624-4070-be18-1325d7117e92)
-<br><br>
+      
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/f74b1012-3624-4070-be18-1325d7117e92)
 <br><br>
 
@@ -49,11 +48,9 @@
 <br><br>
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/b0f0f8e2-61a3-4e18-b6d9-c0d6c7c80d99)
 <br><br>
-![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/b0f0f8e2-61a3-4e18-b6d9-c0d6c7c80d99)
-<br><br>
+
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/1d24980c-df22-49ae-b025-403151dc32dc)
-
-
+<br><br>
 
 ## 📈 Data
 - [AI 허브-국내 여행로그 데이터(제주도 및 도서지역)](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=realm&dataSetSn=71584)
