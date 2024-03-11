@@ -53,10 +53,15 @@
   
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/a1e21d9a-926b-431e-b15a-873e25995a73)
 <br><br>
-      
+
+> k=5를 최적의 클러스터 개수로 선정하였습니다. 데이터의 위도, 경도 상 센트로이드(centroid)는 아래와 같이 나왔습니다.
+각 데이터를 군집화하였을 때 위와 같이 숙소의 위치가 분류됨을 확인하였습니다.
+
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/f74b1012-3624-4070-be18-1325d7117e92)
 <br><br>
 
+>위와 같이 학습이 완료된 후 머물 숙소의 위도, 경도를 입력하면 그 숙소가 포함된 군집 정보를 출력합니다.
+>
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/f8e145b8-5714-4ada-b576-80c4f6751887)
 <br><br>
 
