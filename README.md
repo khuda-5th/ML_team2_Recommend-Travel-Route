@@ -60,10 +60,12 @@
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/f74b1012-3624-4070-be18-1325d7117e92)
 <br><br>
 
+>사용자의 여행 스타일 데이터를 입력 받습니다.
+
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/f8e145b8-5714-4ada-b576-80c4f6751887)
 <br><br>
 
->위와 같이 학습이 완료된 후 머물 숙소의 위도, 경도를 입력하면 그 숙소가 포함된 군집 정보를 출력합니다.
+>자동차의 유무로 두집단을 나눕니다.
 
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/3c5d1f03-2cd5-4dfe-8bc8-e5e0626f0469)
 <br><br>
