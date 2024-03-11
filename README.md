@@ -32,7 +32,7 @@
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/816fcce9-e763-4a86-bcf0-54d72548b236)
 <br><br>
 
->여행객의 정보가 담겨 있는 여행객master.csv의 **여행 스타일 7가지 특성** (`자연`vs`도시`, `숙박`vs`당일`, `새로운지역`vs`익숙한지역`, `휴양/휴식`vs`체험활동`, `잘 알려지지 않은 방문지`vs`알려진 방문지`, `계획에 따른 여행`vs`상황에 따른 여행`, `사진 촬영 중요하지 않음`vs`사진 촬영 중요`) 을 추출했습니다. 이때 편하지만 비싼 **`숙소`vs`불편하지만 저렴한 숙소`** 여행 스타일을 추출하지 않은 이유는 여행객의 숙소는 이미 정해진 상황임을 가정했기 때문에 추출하지 않았습니다. 이로써 **8개의 특성**(여행객ID, 여행스타일7개)과 3200개의 샘플로 전처리 하였고 이를 traveler_master.csv파일에 저장하였습니다.
+>여행객의 정보가 담겨 있는 여행객master.csv의 **여행 스타일 7가지 특성** (`자연`vs`도시`, `숙박`vs`당일`, `새로운지역`vs`익숙한지역`, `휴양/휴식`vs`체험활동`, `잘 알려지지 않은 방문지`vs`알려진 방문지`, `계획에 따른 여행`vs`상황에 따른 여행`, `사진 촬영 중요하지 않음`vs`사진 촬영 중요`) 을 추출했습니다. 이때 여행객의 숙소는 이미 정해졌기 때문에 **`편하지만 비싼 숙소`vs`불편하지만 저렴한 숙소`** 는 추출하지 않았습니다. 이로써 **8개의 특성**(여행객ID, 여행스타일7개)과 3200개의 샘플로 전처리 하였고 이를 traveler_master.csv파일에 저장하였습니다.
 
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/62edd7b6-d77c-4721-be15-f2bc5e675c5d)
 <br><br>
@@ -60,7 +60,7 @@
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/f74b1012-3624-4070-be18-1325d7117e92)
 <br><br>
 
->사용자의 여행 스타일 데이터를 입력 받습니다.
+>사용자의 `여행 스타일` 데이터를 입력 받습니다.
 
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/f8e145b8-5714-4ada-b576-80c4f6751887)
 <br><br>
