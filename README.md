@@ -65,13 +65,16 @@
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/f8e145b8-5714-4ada-b576-80c4f6751887)
 <br><br>
 
->자동차의 유무로 두집단을 나눕니다.
 
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/3c5d1f03-2cd5-4dfe-8bc8-e5e0626f0469)
 <br><br>
 
+>`자동차의 유무`로 두집단을 나눕니다.
+
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/b0f0f8e2-61a3-4e18-b6d9-c0d6c7c80d99)
 <br><br>
+
+>`MSE 평균 제곱 오차` 방법을 이용하여 숙소의 군집에 포함된 범위에서 **여행 스타일이 유사한 여행객 상위 5명**을 선정합니다. 이때 유사도 측정을 위해 `MSE 평균 제곱 오차` 방법을 선정한 이유는 선호도가 나타내는 특징 공간 내에서 벡터의 방향의 유사도 보다는 **벡터의 길이의 유사도**를 따져야 하기 때문입니다.
 
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/e2184cc6-e2c5-4396-9be4-56ceabde1a1d)
 <br><br>
@@ -81,12 +84,12 @@
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/1d24980c-df22-49ae-b025-403151dc32dc)
 <br><br>
 
->선호도가 유사한 5명의 여행객의 방문지 정보를 추출한 후 **`관광지`와 `식당/카페`**로 분류한다. 그 다음 관광지 그룹을 만족도가 높은 순으로 정렬한 후 중복 위치를 제외한 4가지 여행지를 추출합니다.
+>선호도가 유사한 5명의 여행객의 방문지 정보를 추출한 후 **`관광지`와 `식당/카페`**로 분류합니다. 그 다음 관광지 그룹을 만족도가 높은 순으로 정렬한 후 중복 위치를 제외한 `4가지 여행지`를 추출합니다.
 
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/aa671968-a908-42a0-b107-30246e343149)
 <br><br>
 
->선정한 장소 네 곳을 지도에 표시하여 숙소에서 각 장소와의 거리 계산 후, 숙소와 가장 가까운 장소 A를 선정합니다. A에서 남은 장소와 거리 계산 후 A와 가장 가까운 장소 B를 선정합니다. B에서 남은 장소와 거리 계산 후, B와 가장 가까운 장소 C를 선정한다. 남은 D는 마지막 장소로 관광지만으로 구성된 A-B-C-D 경로를 완성합니다.
+>선정한 장소 네 곳을 지도에 표시하여 숙소에서 각 장소와의 거리 계산 후, 숙소와 가장 가까운 장소 A를 선정합니다. A에서 남은 장소와 거리 계산 후 A와 가장 가까운 장소 B를 선정합니다. B에서 남은 장소와 거리 계산 후, B와 가장 가까운 장소 C를 선정한다. 남은 D는 마지막 장소로 관광지만으로 구성된 `A-B-C-D 경로`를 완성합니다.
 
 ![image](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route/assets/83753041/9968661a-e919-4caa-a148-d32235401e2c)
 <br><br>
